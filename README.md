@@ -24,3 +24,4 @@
 |21.策略模式|	Strategy Pattern
 |22.模板方法模式|	Template Method Pattern
 |23.访问者模式|	Visitor Pattern
+1
